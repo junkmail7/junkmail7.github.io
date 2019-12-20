@@ -1,11 +1,11 @@
 # Site settings
 author: William Pannell
-title: 
+title: code blog :-)
 header-img: img/home-bg.png
 email: lpann5@gmail.com
 copyright_name: William Pannell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  my experience coding with flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  junkmail7
